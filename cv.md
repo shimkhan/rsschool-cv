@@ -1,12 +1,10 @@
-#### [ [rsschool-cv](https://github.com/shimkhan/rsschool-cv/blob/gh-pages/cv.md) ]
-
 ## Shimarov Pavel
 
 **Beginner front-end developer**
 
 ---
 
-#### My contacts:
+### My contacts:
 
 - **Discord**: [@shimkhan](https://discordapp.com/users/418118655448973315)
 - **Telegram**: [@shimkhan](https://t.me/shimkhan)
@@ -17,7 +15,7 @@
 
 ---
 
-#### Summary:
+### Summary:
 
 I have been studying FrontEnd development since 2022, at the beginning it was self-learning with the help of courses and training videos on youtube, as well as resources: https://learn.javascript.ru/ and http://htmlbook.ru/.
 
@@ -30,7 +28,7 @@ I do not plan to stop and continued to study FrontEnd at RS School / stage0, to 
 
 ---
 
-#### Skills:
+### Skills:
 
 - HTML
 - CSS/SCSS, BEM methodology
@@ -41,7 +39,7 @@ I do not plan to stop and continued to study FrontEnd at RS School / stage0, to 
 
 ---
 
-#### Code example:
+### Code example:
 
 ```
 const a = "$100";
@@ -54,7 +52,7 @@ console.log(sum);
 
 ---
 
-#### Experience:
+### Experience:
 
 Layout of an adaptive product page with reviews and a form for creating a review. Further transfer of this page to the react application of two pages (main page and product card).
 
@@ -68,7 +66,9 @@ Layout of an adaptive product page with reviews and a form for creating a review
 
 React app: https://gitlab.com/1earning/homework/-/tree/final/react-app
 
-#### Language:
+---
+
+### Language:
 
 - Russian ( native )
 - English ( А1. Beginner )
