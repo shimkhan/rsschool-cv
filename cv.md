@@ -8,7 +8,7 @@
 
 - **Discord**: [@shimkhan](https://discordapp.com/users/418118655448973315)
 - **Telegram**: [@shimkhan](https://t.me/shimkhan)
-- **E-mail**: pavel.shimarov.get@gmail.com
+- **E-mail**: [pavel.shimarov.get@gmail.com](pavel.shimarov.get@gmail.com)
 - **GitHub**: [shimkhan](https://github.com/shimkhan)
 - **CodePen**: [shimkhan](https://codepen.io/shimkhan)
 - **Address**: Moscow city
