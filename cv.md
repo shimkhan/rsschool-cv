@@ -1,6 +1,6 @@
 ## Shimarov Pavel
 
-**Beginner front-end developer**
+**Beginner front end developer**
 
 ---
 
@@ -17,10 +17,10 @@
 
 ### Summary:
 
-I have been studying FrontEnd development since 2022, at the beginning it was self-learning with the help of courses and training videos on youtube, as well as resources: https://learn.javascript.ru/ and http://htmlbook.ru/.
+I have been studying FrontEnd development since 2022, at the beginning it was self-learning with the help of courses and training videos on youtube, as well as resources: [https://learn.javascript.ru/](https://learn.javascript.ru/) and [http://htmlbook.ru/](http://htmlbook.ru/).
 
 After that, he entered the course "Fundamentals of FrontEnd Development" from Innopolis University and graduated with honors.
-**Final React project:** https://gitlab.com/1earning/homework/-/tree/final/react-app
+**Final React project:** [https://gitlab.com/1earning/homework/-/tree/final/react-app](https://gitlab.com/1earning/homework/-/tree/final/react-app)
 
 I do not plan to stop and continued to study FrontEnd at RS School / stage0, to consolidate existing knowledge and gain new ones.
 **Strengths:** the search for non-trivial solutions to the task, quick wit and perseverance.
@@ -64,7 +64,7 @@ Layout of an adaptive product page with reviews and a form for creating a review
 - dark mode theme
 - Interactive elements for user interaction
 
-React app: https://gitlab.com/1earning/homework/-/tree/final/react-app
+React app: [https://gitlab.com/1earning/homework/-/tree/final/react-app](https://gitlab.com/1earning/homework/-/tree/final/react-app)
 
 ---
 
