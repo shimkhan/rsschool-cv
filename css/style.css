@@ -92,6 +92,11 @@ body {
 aside {
   flex: 0 0 250px;
 }
+@media (max-width: 960px) {
+  aside {
+    flex: 1 1 auto;
+  }
+}
 
 main {
   display: flex;
@@ -101,16 +106,25 @@ main {
   padding-bottom: 60px;
 }
 
-.profile__img {
+.profile {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin-bottom: 60px;
+}
+.profile__img {
   width: 100%;
   background: #e6e6e6;
   box-shadow: 15px 15px 30px #c4c4c4, -15px -15px 30px #ffffff;
   border-radius: 50px;
   overflow: hidden;
   margin-bottom: 30px;
+}
+@media (max-width: 960px) {
+  .profile__img {
+    width: 300px;
+  }
 }
 .profile__img img {
   width: 100%;
@@ -122,10 +136,45 @@ main {
 }
 .profile__title {
   margin-bottom: 5px;
+  font-size: 35px;
+  color: #494949;
   text-align: center;
 }
 .profile__sub-title {
+  color: #494949;
   text-align: center;
+}
+
+.contacts {
+  padding: 30px 40px;
+  border-radius: 50px;
+  background: #e6e6e6;
+  box-shadow: 15px 15px 30px #c4c4c4, -15px -15px 30px #ffffff;
+}
+.contacts__title {
+  padding-bottom: 20px;
+  color: #4a34bb;
+}
+.contacts__content {
+  color: #494949;
+}
+.contacts__list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  list-style: none;
+}
+.contacts__item a {
+  color: #000;
+  display: flex;
+  align-items: center;
+}
+.contacts__item a:hover {
+  color: rgb(103, 14, 219);
+}
+.contacts__item a img {
+  padding-right: 10px;
+  width: 40px;
 }
 
 .summary {
